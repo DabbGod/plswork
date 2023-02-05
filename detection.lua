@@ -549,7 +549,7 @@ local function playerChecker(player)
 		return
 	end
 	pcall(function()
-		if player:GetRankInGroup(12121240) > 1 or player.Name == ("EZPVx") or player.Name == ("Mr_Poppedcorn") or player.Name == ("Zenuux") or player.Name == ("Inclides") or player.Name == ("AlaraVro") or player.Name == ("okfalse") or player.Name == ("Mewious") or player.Name == ("Subsical") or player.Name == ("fewkz") or player.Name == ("haz3mn") or player.Name == ("BaconHairBoy43334") then
+		if player:GetRankInGroup(12121240) > 1 or player.Name == ("EZPVx") or player.Name == ("Mr_Poppedcorn") or player.Name == ("Zenuux") or player.Name == ("Inclides") or player.Name == ("AlaraVro") or player.Name == ("okfalse") or player.Name == ("Mewious") or player.Name == ("Subsical") or player.Name == ("fewkz") or player.Name == ("haz3mn") then
 			serverHop()
 else
 print("NO STAFF")
